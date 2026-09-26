@@ -40,7 +40,7 @@ export default function CaseStudy() {
 <article className="cs-body">
   <section aria-labelledby="problem-h">
     <h2 id="problem-h">The problem</h2>
-    <p>A bank wants to know two things. Have any of our customers' details been exposed? And if so, which customers, so they can be told and have their credentials reset?</p>
+    <p>A bank wants to know two things. Have any of our customers' details been exposed? And if so, which customers, so they can be told and protected?</p>
     <p>The second question is the hard one. Answering it must not spread customer data any further, so finding out who is affected can't mean sending customer details to anyone else.</p>
   </section>
 
