@@ -100,8 +100,8 @@ export default function Home() {
         </div>
         <div className="panel-body">
           <p className="cap">Previously</p>
-          <h3>Store owner, marketer, IT student</h3>
-          <p>Ran a Facebook thrift store, worked in digital marketing at The Box Gallery, and started a BIT at Siam University in 2024.</p>
+          <h3>Store owner, IT student</h3>
+          <p>Founded and ran Beans Thrift, a Facebook-based thrift clothing business in Yangon, and started a BIT at Siam University in 2024.</p>
         </div>
       </article>
 
@@ -196,8 +196,8 @@ export default function Home() {
   <p className="cap">Experience</p>
   <h2 id="exp-h">Where I've worked</h2>
   <div className="ledger">
-    <div className="ledger-row"><time>Jan 2026 – now</time><div><h3>AI Developer &amp; Agent Architect · Tamarind Tech</h3><p>Own a data-exposure monitoring engagement for a major bank in Myanmar; designed and led the build of Ammunity and built Reckoner.</p></div></div>
-    <div className="ledger-row"><time>Aug 2024 – Apr 2025</time><div><h3>Digital Marketing Associate · The Box Gallery, Bangkok</h3><p>Ran paid-social campaigns and tracked them in SQL dashboards; monthly store visits grew about 50%.</p></div></div>
+    <div className="ledger-row"><time>Jan 2026 – now</time><div><h3>AI Developer &amp; Agent Architect (Internship) · Tamarind Tech</h3><p>Bangkok · remote. Own a data-exposure monitoring engagement for a major bank in Myanmar; designed and led the build of Ammunity and built Reckoner.</p></div></div>
+    <div className="ledger-row"><time>Jun – Dec 2024</time><div><h3>Founder &amp; Operator · Beans Thrift, Yangon</h3><p>Launched and managed a Facebook-based thrift clothing business: sourcing, pricing and inventory, the brand's Facebook community, customer inquiries and orders, fulfilment, and basic marketing analytics to improve sales.</p></div></div>
   </div>
 </section>
 
